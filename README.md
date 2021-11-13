@@ -18,7 +18,7 @@ g catch golden coin
 q quit game
 [ decrease lasso release angle
 ] increase lasso release angle
-- decrease lasso release speed
+/- decrease lasso release speed
 = increase lasso release speed
 
 Video link: https://drive.google.com/drive/folders/19DxDW5GKlGJiC3w_HHeOi9DXfQvX8q6?usp=sharing
