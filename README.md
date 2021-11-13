@@ -11,15 +11,15 @@ The golden special coin is hard to catch as it moves randomly and changes its po
 Avoid the black obstacle which moves in the same way as the golden coin to avoid losing a life.
 
 Commands:
-t throw lasso.
-y yank lasso
-l loop lasso
-g catch golden coin
-q quit game
-[ decrease lasso release angle
-] increase lasso release angle
-/- decrease lasso release speed
-= increase lasso release speed
+t throw lasso;
+y yank lasso;
+l loop lasso;
+g catch golden coin;
+q quit game;
+[ decrease lasso release angle;
+] increase lasso release angle;
+- decrease lasso release speed;
+= increase lasso release speed;
 
 Video link: https://drive.google.com/drive/folders/19DxDW5GKlGJiC3w_HHeOi9DXfQvX8q6?usp=sharing
 
