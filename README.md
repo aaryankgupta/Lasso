@@ -1,5 +1,7 @@
 # Lasso_Game
 
+ CS101 COURSE PROJECT
+
 The objective of the game is to score the most points by catching coins.
 Catching a coin while it is green results in an extra point and catching it red deducts a point.
 The coins switch colors every few seconds. Try to catch them before they turn red, and yank
